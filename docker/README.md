@@ -16,6 +16,6 @@ Note for Windows 10 Users: Run these commands in PowerShell
   
    *-e MYSQL_ROOT_PASSWORD: set environment variable the container is configured to read upon initialization to configure the mysql root password to allow for remote root access*  
    
-   *--mount: set a docker mount pointed to the mysql database so that it persists in case container is deleted/removed. set another mount to your host system so you can easily share files back and forth from container to host (/home/ on container is connected to datadir/ subdirectory of the mariaDB directory)*  
+   *--mount: set a docker mount pointed to the mysql database so that it persists in case container is deleted/removed. set another mount to your host system so you can easily share files back and forth from container to host (/home/ on container is connected to datadir/ subdirectory of this docker/ directory)*  
    
    *--restart: allow container to auto start when ever docker engine boots up (allows container to boot up when computer restarts)*  
