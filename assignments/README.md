@@ -7,7 +7,7 @@ There will be some workshop sessions (graded and ungraded) scheduled for this co
 # Late Policy
 TBD
 
-### Assignment 1 (Individual)
+## Assignment 1 (Individual)
 [Link to A1](a1.md)
 
 **Due Feb 20th**
