@@ -1,4 +1,4 @@
-# Lab 1
+# Workshop 1
 # Create a MariaDB Docker Container and Load the Diveshop Database
 
 1. Download GitHub Desktop: https://desktop.github.com/
