@@ -9,11 +9,13 @@ TBD
 
 ## Assignment 1 (Individual)
 [Link to A1](a1.md)
+
 **Due Feb 20th**
 
 
 ## Assignment 2a (Group)
 [Link to A2](a2a.md)
+
 **Due Feb 19th**
 
 
