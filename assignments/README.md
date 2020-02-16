@@ -4,8 +4,8 @@ Most of the assignments in this course will be related to your own database and 
 # Workshops
 There will be some workshop sessions (graded and ungraded) scheduled for this course. These sessions will help you become more familiar with code and infrastructure.
 
-# Late Policy
-TBD
+# Late Policy for Assignments/Workshops
+Late submissions, will be penalized 25% a day after the due date.  No exceptions. 
 
 ## Assignment 1 (Individual)
 [Link to A1](a1.md)
