@@ -11,5 +11,5 @@ The Deepsea Adventures company has overbooked their scuba vacations and needs Di
 * Assume cost to each destination within a multi-destination trip cost the same
 * Ensure all equipment has a price associated with it (Google is your friend)
   
-## What to Turn in
+## What to Turn in by end of day March 5
 An SQL file that creates a new database called DIVESHOP_DEEPSEA_MERGER and then loads the transactional data using SQL statements.
