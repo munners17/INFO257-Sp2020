@@ -1,4 +1,4 @@
-# Workshop 3
+# Workshop 3 - Data Integration & Normalization
 ## Load transaction data from a Diveshop competitor called Deepsea Adventures
 The Deepsea Adventures company has overbooked their scuba vacations and needs Diveshop's help to handle the extra business. The goal of this Workshop is to load the portions of data Deepsea Adventures was able to share with Diveshop, Inc. into the Diveshop database to start managing the new accounts. The data from Deepsea Adventures is in the form of a spreadsheet containing (denormalized) sales records.
 
