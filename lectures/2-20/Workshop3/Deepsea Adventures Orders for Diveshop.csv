@@ -1,10 +1,10 @@
 Order_No,Customer Name,Street,City,State,ZIP,Date_of_Sale,Size_of_Party,Party_Names,Depart_Date,Trip_Length_Days,Dive_Location,Total_Trip_Cost,Equip_Purchase,Equip_Purchase_Qty
 310,Bob Glushko,123 West Elm,Berkeley,CA,94704,"June 1, 2019",3,"(Gilda Radner, Davide Spade)","May 15, 2020",5,Key West,7500,Swim Fins (Nike),6
 310,Bob Glushko,123 West Elm,Berkeley,CA,94704,"June 1, 2019",3,"(Gilda Radner, Davide Spade)","May 15, 2020",5,Key West,7500,Weight Belt (Mesh),3
-310,Bob Glushko,123 West Elm,Berkeley,CA,94704,"June 1, 2019",3,"(Gilda Radner, Davide Spade)","May 15, 2020",5,Key West,7500,Geat Bag (Black),3
+310,Bob Glushko,123 West Elm,Berkeley,CA,94704,"June 1, 2019",3,"(Gilda Radner, Davide Spade)","May 15, 2020",5,Key West,7500,Gear Bag (Black),3
 340,Jenny Burelly,567 Vine St,Oakland,CA,94611,"June 9, 2019",1,(),"May 10, 2020",3,Fiji,3000,,0
 341,Jenny Burelly,567 Vine St,Oakland,CA,94611,"June 9, 2019",2,(Marvin Martian),"May 13, 2020",3,Fiji,6000,,0
-345,Steve Austin,1188 Stone Cold Square,Miami,FL,33101,"May 30, 2019",3,"(Macho Savage, John Cena, Hank Hogan)","My 21, 2020",4,"Great Barrier Reef, Ningaloo Coast",30000,Gauge - Depth,3
+345,Steve Austin,1188 Stone Cold Square,Miami,FL,33101,"May 30, 2019",3,"(Macho Savage, John Cena, Hank Hogan)","May 21, 2020",4,"Great Barrier Reef, Ningaloo Coast",30000,Gauge - Depth,3
 346,Paul Starr,555 Ringo Ono Lane,Strawberry Fields,NY,10001,"May 29, 2019",2,(Harrison George),"May 20, 2020",7,Monterey,14000,Hood (Medium),7
 347,Boyce Codd,12345 Normal St,Plano,TX,75023,"May 30, 2019",2,(),"May 20, 2020",5,New Jersey,4000,Boots (Size 8),1
 347,Boyce Codd,12345 Normal St,Plano,TX,75023,"May 31, 2019",2,(),"May 20, 2020",5,New Jersey,4000,Boots (Size 9),1
