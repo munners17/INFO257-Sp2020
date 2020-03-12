@@ -24,3 +24,8 @@ Late submissions, will be penalized 25% a day after the due date.  No exceptions
 
 **Due Mar 12th**
 
+
+## Assignment 3 (Individual)
+[Link to A3](a3.md)
+
+**Due Apr 9th**
