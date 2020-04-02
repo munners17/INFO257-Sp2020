@@ -29,3 +29,9 @@ Late submissions, will be penalized 25% a day after the due date.  No exceptions
 [Link to A3](a3.md)
 
 **Due Apr 9th**
+
+
+## Assignment 4 - Final Project (Group)
+[Link to A4](a4.md)
+
+**Due May 7th**
