@@ -96,10 +96,10 @@ You’ll have to pull from the origin/master (GitHub cloud repo) first, so that 
 ## What to Turn In
 Each member needs to turn something in:
 1.  The Updated Diveshop.sql logical backup file
-1.  A Screenshot of the Diveshop.sql History page on Git.
-  1.  Click on the Diveshop.sql file on the GitHub website for the group's origin/master repository. Then click the `History` button on the top right:
-  ![Diveshop.Sql on Git](https://github.com/munners17/INFO257-Sp2020/blob/master/lectures/4-09/images/diveshopGit.png)
+1.  A Screenshot of the Diveshop.sql History page on Git: 
+   * Click on the Diveshop.sql file on the GitHub website for the group's origin/master repository. Then click the `History` button on the top right:
+  ![Diveshop.Sql on Git](https://github.com/munners17/INFO257-Sp2020/blob/master/lectures/4-09%20Workshop5/images/diveshopGit.png)
 
-  1. Screenshot the resulting page and be sure the entire history fits on the screen. For example:
-  ![Diveshop.Sql History](https://github.com/munners17/INFO257-Sp2020/blob/master/lectures/4-09/images/GitHistory.png)
+   * Screenshot the resulting page and be sure the entire history fits on the screen. For example:
+  ![Diveshop.Sql History](https://github.com/munners17/INFO257-Sp2020/blob/master/lectures/4-09%20Workshop5/images/GitHistory.png)
 
