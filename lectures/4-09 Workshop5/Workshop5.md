@@ -94,12 +94,6 @@ You’ll have to pull from the origin/master (GitHub cloud repo) first, so that 
 1. Blue button should change to “Push origin”, then click it. Your local changes will be merged into master cloud version of the file.
 
 ## What to Turn In
-Each member needs to turn something in:
-1.  The Updated Diveshop.sql logical backup file
-1.  A Screenshot of the Diveshop.sql History page on Git: 
-   * Click on the Diveshop.sql file on the GitHub website for the group's origin/master repository. Then click the `History` button on the top right:
-  ![Diveshop.Sql on Git](https://github.com/munners17/INFO257-Sp2020/blob/master/lectures/4-09%20Workshop5/images/diveshopGit.png)
-
-   * Screenshot the resulting page and be sure the entire history fits on the screen. For example:
-  ![Diveshop.Sql History](https://github.com/munners17/INFO257-Sp2020/blob/master/lectures/4-09%20Workshop5/images/GitHistory.png)
-
+Just add Luis and Eric as collaborators to your repository (as of April 14, there is no longer a limit on number of collaborators for a private repository). Our GitHub handles:
+* Eric: zandeman7
+* Luis: munners17
