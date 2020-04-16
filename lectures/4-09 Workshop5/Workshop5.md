@@ -94,6 +94,7 @@ You’ll have to pull from the origin/master (GitHub cloud repo) first, so that 
 1. Blue button should change to “Push origin”, then click it. Your local changes will be merged into master cloud version of the file.
 
 ## What to Turn In
-Just add Luis and Eric as collaborators to your repository (as of April 14, there is no longer a limit on number of collaborators for a private repository). Our GitHub handles:
+1. Add Luis and Eric as collaborators to your repository (as of April 14, there is no longer a limit on number of collaborators for a private repository). Our GitHub handles:
 * Eric: zandeman7
 * Luis: munners17
+2. You need to submit Workshop 5 in bcourses, but just submit a link to your final project repo that contains the Workshop 5 file with all member updates.
